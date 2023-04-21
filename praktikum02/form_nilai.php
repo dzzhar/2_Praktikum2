@@ -93,7 +93,7 @@
     <footer class="main-footer bg-light fixed-bottom">
         <div class="container">
             <div class="pull-left p-3">
-                Develop by Zharifah Dzikra Purnomo @2023
+                Develop by dzzhar @2023
             </div>
         </div>
     </footer>
